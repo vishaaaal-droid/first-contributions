@@ -5505,5 +5505,6 @@ Hirva  Shah
 - [Devon Fazekas](https://github.com/FazekasDevon96)
 - [Pranav Sivvam](https://github.com/vulf)
 - [Yash Upadhyay](https://github.com/yashupadhyay101)
+- [Prasann Kumar Gupta](https://github.com/prasann7676)
 - [Samuel Haiden](https://github.com/samhai11)
 - [Pratik Sharma](https://github.com/pratikshar181)
